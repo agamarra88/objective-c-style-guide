@@ -104,6 +104,8 @@ Use `#pragma mark -` to categorize methods in functional groupings and protocol/
 #pragma mark - UITableViewDataSource
 #pragma mark - UITableViewDelegate
 
+#pragma mark - NSNotifications
+
 #pragma mark - NSCopying
 
 - (id)copyWithZone:(NSZone *)zone {}
